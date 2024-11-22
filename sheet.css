@@ -1,0 +1,6 @@
+body{
+    font-family: "Encode Sans Expanded", sans-serif;
+}
+#signUp , #logIn{
+    box-shadow: -5px 2px 54px -9px black;
+}
